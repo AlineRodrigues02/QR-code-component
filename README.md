@@ -10,10 +10,6 @@ Esta é uma solução para o [desafio do componente de QR code no Frontend Mento
   - [Links](#links)
 - [Meu processo](#meu-processo)
   - [Tecnologias utilizadas](#tecnologias-utilizadas)
-  - [O que aprendi](#o-que-aprendi)
-  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
-  - [Recursos úteis](#recursos-úteis)
-  - [Colaboração com IA](#colaboração-com-ia)
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
@@ -32,8 +28,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da Solução: [Cole o link do seu repositório no GitHub aqui](https://github.com/AlineRodrigues02/QR-code-component.git)
-- URL do Site ao Vivo: [Cole o link do site no ar (Vercel, Netlify, GitHub Pages) aqui](https://alinerodrigues02.github.io/QR-code-component/)
+- URL da Solução: [Repositório no GitHub](https://github.com/AlineRodrigues02/QR-code-component.git)
+- URL do Site ao Vivo: [Site no ar](https://alinerodrigues02.github.io/QR-code-component/)
 
 ### Autor
 GitHub - AlineRodrigues02
